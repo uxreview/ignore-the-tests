@@ -1,4 +1,3 @@
-![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%2022L-f1e05a.svg) ![github](https://aleen42.github.io/badges/src/github.svg)
 
 <h1 align="center">
   <a href="https://uxreview.io/ignore-the-tests" title="Easier GitHub Code-Reviews"><img src="https://i.imgur.com/pPifuPM.gif" style="border:0;max-width:100%" alt="ignoreTheTests()" title="Easy GitHub Code-Review"></a>
@@ -6,6 +5,8 @@
 </h1>
 
 <p align="center">Ease up your GitHub code review life with a bad but maybe useful practice of getting focus for your code review.</p>
+
+![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%2022L-f1e05a.svg) ![github](https://aleen42.github.io/badges/src/github.svg)
 
 ## How does it work?
 
